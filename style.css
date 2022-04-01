@@ -1,0 +1,37 @@
+body{
+    background-size:cover;
+}.heading{
+    font-size:40px;
+    width:100%;
+    margin:0px;
+    font-family: 'Red Hat Mono', monospace;
+}
+.note{
+    font-size:13px;
+    color:black;
+    font-family: 'Red Hat Mono', monospace;
+}
+
+.div_song_name{
+    float:center;
+    font-family: 'Red Hat Mono', monospace;
+}
+
+#song_name{
+    font-size:23px;
+    margin:15px;
+}
+
+
+canvas{
+  border:5px solid white;
+  border-radius:20px;
+  box-shadow:5px 5px 5px red;
+  margin-top:200px;
+}
+.play_song_button{
+    width:150px;
+    font-size:25px;
+    font-family: 'Red Hat Mono', monospace;
+
+}
